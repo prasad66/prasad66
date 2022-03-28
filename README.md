@@ -8,17 +8,18 @@
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F05032?style=flat&logo=Javascript&logoColor=white" />
-    <img alt="Tailwind" src="https://img.shields.io/badge/-TailwindCSS-DD0031?style=flat&logo=TailwindCSS&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-007ACC?style=flat&logo=java&logoColor=white" />
-   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F05032?style=flat&logo=Javascript&logoColor=yellow" />
+  <img alt="Springboot" src="https://img.shields.io/badge/-springboot-white?style=flat&logo=springboot&logoColor=07a905" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-TailwindCSS-DD0031?style=flat&logo=TailwindCSS&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007ACC?style=flat&logo=java&logoColor=white" />
+  img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-   <img alt="CSS" src="https://img.shields.io/badge/-CSS-764ABC?style=flat&logo=CSS3&logoColor=white" />
+  img alt="CSS" src="https://img.shields.io/badge/-CSS-764ABC?style=flat&logo=CSS3&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> 
